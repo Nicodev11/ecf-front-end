@@ -35,6 +35,7 @@ const Navigation = () => {
 const Wrapper = styled.div`
   position: absolute;
   z-index: 2;
+  top: 0;
   left: 50%;
   transform: translateX(-50%);
   width: 100%;
