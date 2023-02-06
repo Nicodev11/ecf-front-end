@@ -1,0 +1,54 @@
+{
+  "Cards": [
+    {
+      "id": 1,
+      "img": "./img/Cards-price/Juste-moi.jpg",
+      "title": "Juste moi",
+      "content": "Séance pour un personne",
+      "place": ["En extérieur", "En studio"],
+      "price": 130
+    },
+
+    {
+      "id": 2,
+      "img": "./img/Cards-price/Pour-deux.jpg",
+      "title": "Pour deux",
+      "content": "Séance pour deux personnes",
+      "place": ["En extérieur", "En studio"],
+      "price": 195
+    },
+    {
+      "id": 3,
+      "img": "./img/Cards-price/Famille.jpg",
+      "title": "Pour deux",
+      "content": "Pour la famille ou les amis, jusqu'a 4 personnes",
+      "infos": "30€ en supplément par personne au-delà de 4 (hormis enfant jusqu'a 2 ans",
+      "place": ["En extérieur", "En studio"],
+      "price": 220
+    },
+    {
+      "id": 4,
+      "img": "./img/Cards-price/Il-était-une-fois.jpg",
+      "title": "Il était une fois",
+      "content": "Photo de grossesse",
+      "place": ["À votre domicile", "En extérieur", "En studio"],
+      "price": 160
+    },
+    {
+      "id": 5,
+      "img": "./img/Cards-price/Mon-bébé.jpg",
+      "title": "Mon bébé",
+      "content": "Photo d'enfant jusqu'a 3 ans",
+      "place": ["À votre domicile"],
+      "price": 100
+    },
+    {
+      "id": 6,
+      "img": "./img/Cards-price/Baptême.jpg",
+      "title": "J'immortalise l'événement",
+      "content": "Préstation de mariage ou baptême",
+      "place": ["Lieu de l'événement"],
+      "price": "sur devis"
+    }
+  ]
+}

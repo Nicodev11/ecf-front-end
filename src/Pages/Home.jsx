@@ -1,9 +1,11 @@
 import React from 'react';
 import styled from 'styled-components/macro';
+import Navigation from '../Components/Navigation';
 
 const Home = () => {
   return (
     <Wrapper>
+      <Navigation />
       <img src="./img/background-home.jpg" alt="backgroundImage" />
       <h1>Charles Cantin - Photographe</h1>
     </Wrapper>
