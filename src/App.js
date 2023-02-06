@@ -1,6 +1,6 @@
 import { Route, Routes } from "react-router-dom";
 import "./App.css";
-import "./assets/bootstrap/bootstrap.min.css.map";
+import "./assets/bootstrap/bootstrap.min.css";
 import Home from "./Pages/Home";
 import Gallery from "./Pages/Gallery";
 import Prices from "./Pages/Prices";
@@ -12,7 +12,7 @@ const App = () => {
     <div>
       <Wrapper>
         <img src="./img/background-home.jpg" alt="backgroundImage" />
-        <h1>Charles Cantin - Photographe</h1>
+        <h1 className="display-1">Charles Cantin - Photographe</h1>
       </Wrapper>
       <Routes>
         <Route path="/" element={<Home />} />
